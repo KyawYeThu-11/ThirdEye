@@ -4,7 +4,7 @@
 
 Currently though, there is only one functionality, **object detection**. Using our tool, you can detect objects from videos and photos in real time or asynchronously.
 
-Here is the link to our web application -> https://thirdeye.streamlit.app/
+Here is the link to our web application -> https://3rd-eye.streamlit.app/
 
 ## License
 
